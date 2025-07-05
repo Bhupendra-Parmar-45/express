@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+##This was not a good code
+
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
